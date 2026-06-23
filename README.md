@@ -24,7 +24,7 @@
 - Complaint Management System
 
 📫 Reach me:
-LinkedIn: <your-linkedin-url>
+LinkedIn: (https://www.linkedin.com/in/sahanaraj-----/)
 
 ⚡ Fun fact:
 I love building AI-powered applications.
